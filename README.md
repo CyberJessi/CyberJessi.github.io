@@ -34,7 +34,7 @@ Includes:
 ---
 
 ## 🔹 Contact  
-💻 GitHub: [yourusername](https://github.com/CyberJessi)  
+💻 GitHub: [CyberJessi](https://github.com/CyberJessi)  
 📧 Email: jessiloveschicago@gmail.com 
 
 ---
