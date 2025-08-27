@@ -2,7 +2,7 @@
 Practical cybersecurity projects: phishing detection, awareness training, and security best practices.
 # Cybersecurity Portfolio  
 
-Welcome 👋 I'm [Your Name], a cybersecurity enthusiast with 15 years of small business experience, now breaking into the security world.  
+Welcome 👋 I'm Jessi, a cybersecurity enthusiast with 15 years of small business experience, now breaking into the security world.  
 This portfolio showcases my hands-on projects in **phishing awareness, security education, and practical case studies**.  
 
 ---
@@ -34,8 +34,7 @@ Includes:
 ---
 
 ## 🔹 Contact  
-💻 GitHub: [yourusername](https://github.com/yourusername)  
-📧 Email: your@email.com  
-🔗 Website/Portfolio: [https://yourusername.github.io](https://yourusername.github.io)  
+💻 GitHub: [yourusername](https://github.com/CyberJessi)  
+📧 Email: jessiloveschicago@gmail.com 
 
 ---
